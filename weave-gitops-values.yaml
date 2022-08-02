@@ -1,0 +1,5 @@
+adminUser:
+  create: true
+  username: admin
+  passwordHash: $2a$10$JcG.0NXYp9JAdhCgIdVDd.Y1qWrgW8Y1wsf7ZdEf0odf/OIFJg1Lq
+
